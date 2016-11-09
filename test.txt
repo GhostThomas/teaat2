@@ -1,1 +1,2 @@
-klaus klaus klaus
+<<<<<<< xD läuft
+>>>>>>> 8c3105fd7260244954f7fb5fc9e26814b3f5a0dd
